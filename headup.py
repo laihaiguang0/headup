@@ -4,7 +4,6 @@ import picamera
 import requests
 import json
 import math
-from requests_toolbelt import MultipartEncoder
 from pygame import mixer
 from datetime import datetime
 import os
